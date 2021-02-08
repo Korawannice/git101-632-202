@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 this is b.txt
 // swap a,b in cc 
 int temp = a;
+=======
+This id b.txt
+// swap a,b in c
+int temp =a;
+>>>>>>> feature2
 a = b;
 b = temp;
